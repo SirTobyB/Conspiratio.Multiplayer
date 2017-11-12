@@ -5,4 +5,4 @@ Multiplayer Prototype for Conspiratio
 - Features planned:
   1. Simple chat with private maessages and channels
   2. Exchange of objects for synchronizing the clients with the server
-  3. Do some logic in the server with the object
+  3. Do some server logic with the objects
